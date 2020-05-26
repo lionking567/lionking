@@ -1,2 +1,2 @@
 # lionking
-## this is my fist githut project
+## this is my first github project.
